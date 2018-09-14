@@ -1,0 +1,8 @@
+{
+"customer": "hilti",
+"pickup_offset": 1,
+"delivery_offset" : 2,
+"LS100" : "Created",
+"LS106" : "Picked Up",
+"LS107" : "Delivered"
+}
